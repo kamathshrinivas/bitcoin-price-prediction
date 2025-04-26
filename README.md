@@ -28,5 +28,4 @@ python bitcoin_lstm.py
 
 You’ll see a plot of Actual vs Predicted Bitcoin price using LSTM.
 
-## 📄 Reference
-- Published research: [DOI:10.15680/IJIRCCE.2022.1005001](https://doi.org/10.15680/IJIRCCE.2022.1005001)
+
